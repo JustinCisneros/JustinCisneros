@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Justin Cisneros
     tagline: Estudiante Analista de Sistemas
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: perfil.jpg.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: justincisneros00@hotmail.com
