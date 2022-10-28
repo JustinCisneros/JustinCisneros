@@ -56,12 +56,8 @@ sidebar:
 career-profile:
     title: Perfil de Carrera
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Mi perfil de analista de sistemas esta orientado al campo de la programacion, sin dejar de lado lo que es
+      propiamente un analista.
 education:
     title: Educacion
     info:
@@ -94,17 +90,12 @@ experiences:
         time: 2021 - Actualidad
         company: Aitech Soluciones
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Ingrese como pasante de soporte tecnico en 2021 en Aitech Soluciones.
+          Desde mi ingreso, me dedique al control de backups de cada clliente, tanto pc como servidores principales o secundarios, 
+          resolucion de problemas a nivel de software como errores en nuestro propio sistema, vencimiento de licencias, problemas con los programas de microsft, 
+          migracion de una gran cantidad de corroes con dominio de gmail a Donweb, con su proceso de solicitud de backups, y creacion de cada cuenta nueva con sus datos.
+          A nivel de Hardware me concentre en el armado de computadoras, reemplazo de componentes defectuosos y la instalacion de equipos en oficinas, como lo son computadoras, cableado, routers y moddems. 
+          
      # - role: Senior Software Engineer
       #  time: 2014 - 2015
        # company: Google, London
@@ -129,13 +120,13 @@ experiences:
             #- Bullet point
 projects:
     title: Projectos
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+     # You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Comenius
-        link: "#hook"
+       # link: "#hook"
         tagline: "Es un proyecto final de mi carrera de analista de sistemas, se basa en un sistema enfocado a instituciones de educacion virtual, donde el alumno y profesor podran interactuar mediante chats, videollamdas, publicacion de contenido y mucho mas."
 
      # - title: DevStudio
