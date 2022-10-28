@@ -91,10 +91,14 @@ experiences:
         company: Aitech Soluciones
         details: |
           Ingrese como pasante de soporte tecnico en 2021 en Aitech Soluciones.
-          Desde mi ingreso, me dedique al control de backups de cada clliente, tanto pc como servidores principales o secundarios, 
-          resolucion de problemas a nivel de software como errores en nuestro propio sistema, vencimiento de licencias, problemas con los programas de microsft, 
-          migracion de una gran cantidad de corroes con dominio de gmail a Donweb, con su proceso de solicitud de backups, y creacion de cada cuenta nueva con sus datos.
-          A nivel de Hardware me concentre en el armado de computadoras, reemplazo de componentes defectuosos y la instalacion de equipos en oficinas, como lo son computadoras, cableado, routers y moddems. 
+          Desde mi ingreso, me dedique al control de backups de cada clliente, tanto pc como servidores 
+          principales o secundarios, resolucion de problemas a nivel de software como errores en nuestro 
+          propio sistema, vencimiento de licencias, problemas con los programas de microsft, migracion 
+          de una gran cantidad de corroes con dominio de gmail a Donweb, con su proceso de solicitud de 
+          backups, y creacion de cada cuenta nueva con sus datos.
+          A nivel de Hardware me concentre en el armado de computadoras, reemplazo de componentes 
+          defectuosos y la instalacion de equipos en oficinas, como lo son computadoras, cableado, 
+          routers y modems. 
           
      # - role: Senior Software Engineer
       #  time: 2014 - 2015
@@ -184,10 +188,10 @@ skills:
         level: 25%
 
       - name: Java
-        level: 50%
+        level: 59%
 
       - name: Premier & Photoshop
-        level: 30%
+        level: 40%
 
 footer: >
     Justin Cisneros Reymundo &copy; 2022
